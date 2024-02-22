@@ -4,9 +4,9 @@
 -  **Hobbies :** Racing 🏁 and Read 📖
 -  **Fact :** It's never late to get started 🎯
 
-<h2 align="center">
-Experience in these technologies and languages
-</h2>
+
+## Experience in these technologies and languages
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -42,6 +42,7 @@ Experience in these technologies and languages
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mojezcg&show_icons=true&title_color=7031f7&icon_color=4622e5&text_color=fff&bg_color=0f0f0f&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&layout=compact&title_color=7031f7&text_color=fff&bg_color=0f0f0f)](https://github.com/anuraghazra/github-readme-stats)
 
+## Collaborate with Me on Your Next Project!
 <table style="border: none ">
   <tr>
   <td  width="60%" valign="top">
