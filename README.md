@@ -36,7 +36,8 @@ Experience in these technologies and languages
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-## Github stats:
+## 
+<img style="height: 50px; width: 250px; border-radius: 300px; ov" src="https://img.shields.io/badge/-GitHub Stats:-181717?style=flat-square&logo=github"/>
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mojezcg&show_icons=true&title_color=7031f7&icon_color=4622e5&text_color=fff&bg_color=0f0f0f&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&layout=compact&title_color=7031f7&text_color=fff&bg_color=0f0f0f)](https://github.com/anuraghazra/github-readme-stats)
