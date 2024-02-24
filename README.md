@@ -3,8 +3,7 @@
 -  **I'm Learning :** Full-Stack Development 💻 | Open-Source :fire:	
 -  **Hobbies :** Racing 🏁 and Read 📖
 -  **Fact :** It's never late to get started 🎯
-
-
+-  **How to reach me:** By <a href="mailto:jsMonte31@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
 ## Experience in these technologies and languages
 
 ### Most Experience in:
@@ -52,7 +51,7 @@
 
 If you have any questions about front-end web development, feel free to <a href="mailto:jsMonte31@gmail.com">contact me through email</a>.
 
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
+You can hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
 
   </td>
   <td width="40%" valign="top">
