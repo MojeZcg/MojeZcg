@@ -37,7 +37,9 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-## <img style="height: 40px; width: 220px" src="https://img.shields.io/badge/-Github Stats:-181717?style=flat&logo=github"/> 
+-------
+
+<img style="height: 35px" src="https://img.shields.io/badge/-Github Stats:-181717?style=flat&logo=github"/> 
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mojezcg&show_icons=true&title_color=7031f7&icon_color=4622e5&text_color=fff&bg_color=0f0f0f&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&layout=compact&title_color=7031f7&text_color=fff&bg_color=0f0f0f)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,6 +67,8 @@ You can hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">Linke
   </td>
   </tr>
 </table>
+
+-----
 
 <!--
 **MojeZcg/MojeZcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
