@@ -2,7 +2,7 @@
 
 -  **I'm Learning :** Full-Stack Development 💻 | Open-Source :fire:	
 -  **Hobbies :** Racing 🏁 and Read 📖
--  **How to reach me:** By <a href="mailto:jsMonte31@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
+-  **How to reach me:** By <a href="mailto:jesusmontenegro941@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
 -  **Fact :** It's never late to get started 🎯
 ## Experience in these technologies and languages
 
