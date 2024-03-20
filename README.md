@@ -12,6 +12,7 @@
 ![Next.js](https://img.shields.io/badge/Node.js-f3f3f3?logo=nextdotjs&logoColor=black)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat-square&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=typescript&logoColor=0003f4)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=fastapi&logoColor=009485)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
