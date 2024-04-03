@@ -1,10 +1,10 @@
-# Hi 👋, I'm Walter Montenegro
+# 👋 Hi, I'm Walter Montenegro
 
 -  **I'm Learning :** Full-Stack Development 💻 | Open-Source :fire:	
 -  **Hobbies :** Racing 🏁 and Read 📖
 -  **How to reach me:** By <a href="mailto:jesusmontenegro941@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
 -  **Fact :** It's never late to get started 🎯
-## Experience in these technologies and languages
+# Experience in these technologies and languages
 
 ### Most Experience in:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
@@ -42,10 +42,10 @@
 
 -------
 
-<img style="height: 35px" src="https://img.shields.io/badge/-Github Stats:-181717?style=flat&logo=github"/> 
+<img style="height: 50px" src="https://img.shields.io/badge/-Github Stats:-0d1117?style=flat-square&logo=github"/> 
 
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mojezcg&show_icons=true&title_color=7031f7&icon_color=4622e5&text_color=fff&bg_color=0f0f0f&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&layout=compact&title_color=7031f7&text_color=fff&bg_color=0f0f0f)](https://github.com/anuraghazra/github-readme-stats)
+![Mojezcg's Stats](https://github-readme-stats.vercel.app/api?username=mojezcg&theme=dark&icon_color=7031f7&text_color=ddd&show_icons=true&hide_border=true&count_private=true&hide=stars)
+![Mojezcg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&theme=dark&text_color=ddd&show_icons=true&hide_border=true&layout=compact)
 
 ## Collaborate with Me on Your Next Project!
 <table style="border: none ">
