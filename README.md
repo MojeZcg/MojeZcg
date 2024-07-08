@@ -1,12 +1,23 @@
 # 👋 Hi, I'm Walter Montenegro
+## 🚀 About me
+-  🌱 **I'm Learning :** Full-Stack Development 💻
+-  📧 **How to reach me:**
+   <a href="mailto:jesusmontenegro941@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
+-  🎯 **Fun Fact :** It's never late to get started 🎯
+-  🕹️ **Hobbies :** Racing 🏁 and Read 📖
+  
+## 🌐 Contact With me
+<a href="mailto:jesusmontenegro941@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/montenegrowalter/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
--  **I'm Learning :** Full-Stack Development 💻
--  **Hobbies :** Racing 🏁 and Read 📖
--  **How to reach me:** By <a href="mailto:jesusmontenegro941@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
--  **Fact :** It's never late to get started 🎯
-# Experience in these technologies and languages
+ 
+## 🛠️ Technologies & Tools
 
-### Most Experience in:
+### Most Experienced with:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-f3f3f3?logo=nextdotjs&logoColor=black)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)&nbsp;
@@ -28,7 +39,7 @@
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)&nbsp;
 
-### With kwowladge in: 
+### Also Familiar With: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
@@ -40,34 +51,19 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;
 
--------
-
-<img style="height: 50px" src="https://img.shields.io/badge/-Github Stats:-0d1117?style=flat-square&logo=github"/> 
-
+## 📊 Github Stats 
 ![Mojezcg's Stats](https://github-readme-stats.vercel.app/api?username=mojezcg&theme=dark&icon_color=7031f7&text_color=ddd&show_icons=true&hide_border=true&count_private=true&hide=stars)
 ![Mojezcg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojezcg&theme=dark&text_color=ddd&show_icons=true&hide_border=true&layout=compact)
 
-## Collaborate with Me on Your Next Project!
-<table style="border: none ">
+## 💡 Collaborate with Me on Your Next Project!
+<table style="border: none">
   <tr>
-  <td  width="60%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:jsMonte31@gmail.com">contact me through email</a>.
-
-You can hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
-
-  </td>
-  <td width="40%" valign="top">
-
-## It's not perfect, isn't it?
-
-
-"Success is not final, failure is not fatal: It is the courage to continue that counts."
-- Winston Churchill
-
-  </td>
+    <td width="60%" valign="top">
+      If you have any questions about front-end web development, feel free to <a href="mailto:jsMonte31@gmail.com">contact me through email</a>. You can also hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
+    </td>
+    <td width="40%" valign="top">
+      "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+    </td>
   </tr>
 </table>
 
