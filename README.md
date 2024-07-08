@@ -8,8 +8,8 @@
 
 ### Most Experience in:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-f3f3f3?logo=nextdotjs&logoColor=black)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Node.js-f3f3f3?logo=nextdotjs&logoColor=black)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0f0f0f?style=flat-square&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=typescript&logoColor=0003f4)&nbsp;
