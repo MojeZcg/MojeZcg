@@ -59,7 +59,7 @@
 <table style="border: none">
   <tr>
     <td width="60%" valign="top">
-      If you have any questions about full-stack web development, feel free to <a href="mailto:jsMonte31@gmail.com">contact me through email</a>. You can also hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
+      If you have any questions about full-stack web development, feel free to <a href="mailto:jesusmontenegro941@gmail.com">contact me through email</a>. You can also hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
     </td>
     <td width="40%" valign="top">
       "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
