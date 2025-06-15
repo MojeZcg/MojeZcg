@@ -4,7 +4,7 @@
 -  📧 **How to reach me:**
    <a href="mailto:jesusmontenegro941@gmail.com" >Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/" >Linkedin</a>
 -  🎯 **Fun Fact :** It's never late to get started 🎯
--  🕹️ **Hobbies :** Racing 🏁
+-  🕹️ **Hobbies :** Racing 🏁 and Hacking 👾
   
 ## 🌐 Contact With me
 <a href="mailto:jesusmontenegro941@gmail.com">
