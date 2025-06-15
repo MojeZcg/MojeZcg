@@ -1,5 +1,4 @@
-
-###👋 Hi, I'm Walter Montenegro
+### 👋 Hi, I'm Walter Montenegro
 
 <img src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/rocket.gif" width="30px">&nbsp;&nbsp;&nbsp;**About me**
 
