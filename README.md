@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Walter Montenegro
 <div>
-<img align="right" justify- src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width='530px' />
+<img align="right" justify- src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width='470px' />
 </div>
 
 <img src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/rocket.gif" width="30px">&nbsp;***About me***
