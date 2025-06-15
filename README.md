@@ -1,9 +1,9 @@
 
-### 👋 Hi, I'm Walter Montenegro
+###👋 Hi, I'm Walter Montenegro
 
-### 🚀 About me
+<img src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/rocket.gif" width="30px">&nbsp;&nbsp;&nbsp;**About me**
 
-<img align="right" src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width="400px">
+<img align="right" src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width="450px">
 
 I'm a tech enthusiast with a growing passion for cloud computing and cybersecurity. I enjoy diving into new technologies, building practical skills, and staying curious. Whether I'm learning about scalable cloud infrastructures or tinkering with security tools, I’m always looking for ways to grow — both personally and professionally.
 
