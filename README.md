@@ -7,13 +7,11 @@
 I'm a tech enthusiast with a growing passion for cloud computing and cybersecurity. I enjoy diving into new technologies, building practical skills, and staying curious. Whether I'm learning about scalable cloud infrastructures or tinkering with security tools, I’m always looking for ways to grow — both personally and professionally.
 
 - 🌱 **Currently Exploring:** AWS Cloud Services ☁️
-- 📧 **Let's Connect:**  
-  <a href="mailto:jesusmontenegro941@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/montenegrowalter/">Linkedin</a>  
 - 🎯 **Fun Fact :** It’s never too late to start something new — the best time is now.  
 - 🕹️ **Hobbies :**  Passionate about motorsports 🏁 and ethical hacking 👾  
 
 
-### 🌐 Contact Me
+### 🌐 Let's Connect
 <a href="mailto:jesusmontenegro941@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>&nbsp;
@@ -64,6 +62,7 @@ I'm a tech enthusiast with a growing passion for cloud computing and cybersecuri
 ## 📊 Github Stats 
 ![Mojezcg's Stats](https://github-readme-stats.vercel.app/api?username=MojeZcg&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![Mojezcg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojeZcg&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 ## 💡 Collaborate with Me on Your Next Project!
 <table style="border: none">
   <tr>
