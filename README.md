@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Walter Montenegro
 <div>
-<img align="right" justify- src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width='400px' />
+<img align="right" src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" width='400px' />
 </div>
 
 <img src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/rocket.gif" width="30px">&nbsp;&nbsp;&nbsp;**About me**
@@ -14,7 +14,7 @@ I'm a tech enthusiast with a growing passion for cloud computing and cybersecuri
 - 🕹️ **Hobbies :**  Passionate about motorsports 🏁 and ethical hacking 👾  
 
 
-### 🌐 Contact With me
+### 🌐 Contact Me
 <a href="mailto:jesusmontenegro941@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>&nbsp;
