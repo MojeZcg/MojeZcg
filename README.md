@@ -13,10 +13,16 @@ I'm a tech enthusiast with a growing passion for cloud computing and cybersecuri
 
 ### 🌐 Let's Connect
 <a href="mailto:jesusmontenegro941@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Personal-3B76D6?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+</a>&nbsp;
+<a href="mailto:info@framura.com.ar">
+  <img src="https://img.shields.io/badge/Framura-fff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+</a>&nbsp;
+<a href="https://www.instagram.com/wmontenegro7/">
+  <img src="https://img.shields.io/badge/Instagram-F6008B?style=for-the-badge&logo=instagram&logoColor=white" alt="Email">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/montenegrowalter/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
 <a href="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/CV_Walter_Montenegro.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
