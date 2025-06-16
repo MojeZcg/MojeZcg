@@ -70,17 +70,11 @@ I'm a tech enthusiast with a growing passion for cloud computing and cybersecuri
 ![Mojezcg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojeZcg&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 💡 Collaborate with Me on Your Next Project!
-<table style="border: none">
-  <tr>
-    <td valign="top">
-      If you have any questions about full-stack web development, feel free to <a href="mailto:jesusmontenegro941@gmail.com">contact me through email</a>.
-      You can also hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
-    </td>
-    <td valign="top">
-      "Success is not final, failure is not fatal: It is the courage to continue that counts." 
-       - Winston Churchill
-    </td>
-  </tr>
-</table>
 
------
+If you have any questions about full-stack web development, feel free to <a href="mailto:jesusmontenegro941@gmail.com">contact me through email</a>.
+You can also hire me on <a href="https://www.linkedin.com/in/montenegrowalter/">LinkedIn</a> to deploy any project on the web.
+
+#### "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+
+
