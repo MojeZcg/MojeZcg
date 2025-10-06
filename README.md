@@ -67,7 +67,7 @@ I'm a tech enthusiast with a growing passion for cloud computing and cybersecuri
 
 ## 📊 Github Stats 
 ![MojeZcg's Stats](https://github-readme-stats.vercel.app/api?username=MojeZcg&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![MojeZcg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MojeZcg&theme=dark&hide_border=true)
+![MojeZcg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojeZcg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 💡 Collaborate with Me on Your Next Project!
 
