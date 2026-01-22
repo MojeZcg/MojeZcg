@@ -4,9 +4,9 @@
 
 <img align="right" src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" height="278px">
 
-I'm a tech enthusiast with a growing passion for cloud computing and cybersecurity. I enjoy diving into new technologies, building practical skills, and staying curious. Whether I'm learning scalable cloud infrastructures or tinkering with security tools. I’m always looking for ways to grow, both personally and professionally.
+Full-Stack Developer with a passion for cloud computing and cybersecurity. Focused on scalable systems, clean code, and continuous learning.
 
-- 🌱 **Currently Exploring:** AWS Cloud Services ☁️
+- 🌱 **Currently Exploring:** GCP Cloud Services ☁️
 - 🎯 **Fun Fact :** It’s never too late to start something new — the best time is now.  
 - 🕹️ **Hobbies :**  Passionate about motorsports 🏁 and ethical hacking 👾  
 
