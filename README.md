@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-<img align="right" src="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/Hack.gif" height="278px">
+<img align="right" src="https://moje-bucket.s3.sa-east-1.amazonaws.com/imagenes+publicas/hack.gif" height="250px">
 
 Full-Stack Developer with a passion for cloud computing and cybersecurity. Focused on scalable systems, clean code, and continuous learning.
 
