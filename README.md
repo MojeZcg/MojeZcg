@@ -24,9 +24,9 @@ Full-Stack Developer with a passion for cloud computing and cybersecurity. Focus
 <a href="https://www.linkedin.com/in/montenegrowalter/">
   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
-<a href="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/CV_Walter_Montenegro.pdf" target="_blank">
+<!-- <a href="https://pub-32fb5040efd9489695897b7cd464c93e.r2.dev/CV_Walter_Montenegro.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
-</a>
+</a> -->
 
  
 ## 🛠️ Technologies & Tools
