@@ -28,9 +28,14 @@
 <img align="right" src="https://moje-bucket.s3.sa-east-1.amazonaws.com/imagenes+publicas/hack.gif" height="230px" alt="hacking gif">
 
 - 💻 Full-Stack Developer focused on **quality, security & scalability**
-- 🏢 Working on ISP management software at **DelRio Internet**
+- 🏢 Building ISP management software at **DelRio Internet**
+- 🇦🇷 Based in **Argentina** (UTC-3) — available for remote work
+- 🚀 Founder of [**Framura**](https://framura.com.ar) 🖼️
 - 🌱 Currently exploring **GCP Cloud Services** ☁️ and studying **DevOps**
-- 🕹️ Passionate about **motorsports** 🏁 and **ethical hacking** 👾
+- 🤖 I enjoy **automating tedious processes** — like electronic invoicing with [MiFactura](https://github.com/MojeZcg/MiFactura)
+- 🔐 **Ethical hacking** enthusiast 👾 — always tinkering with Kali Linux
+- 🏁 Huge **motorsports** fan — rally above everything
+- 📫 Open to **freelance projects & collaborations**
 - 🎯 *It's never too late to start something new — the best time is now.*
 
 <br clear="right"/>
