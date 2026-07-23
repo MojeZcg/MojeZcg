@@ -40,7 +40,7 @@
 
 <br clear="right"/>
 
-## 📌 Featured Projects
+## 📌 Featured Public Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
