@@ -32,7 +32,7 @@
 - 🇦🇷 Based in **Argentina** (UTC-3) — available for remote work
 - 🚀 Founder of [**Framura**](https://framura.com.ar) 🖼️
 - 🌱 Currently exploring **GCP Cloud Services** ☁️ and studying **DevOps**
-- 🤖 I enjoy **automating tedious processes** — like electronic invoicing with [MiFactura](https://github.com/MojeZcg/MiFactura)
+- 🤖 I enjoy **automating tedious processes**
 - 🔐 **Ethical hacking** enthusiast 👾 — always tinkering with Kali Linux
 - 🏁 Huge **motorsports** fan — rally above everything
 - 📫 Open to **freelance projects & collaborations**
@@ -40,14 +40,15 @@
 
 <br clear="right"/>
 
-## 📌 Featured Public Projects
+## 🚀 Active Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**MiFactura**](https://github.com/MojeZcg/MiFactura) | Electronic invoicing tool for Argentina's tax agency (ARCA) web services, automated with Selenium | `Python` `Selenium` |
-| [**Uniframe**](https://github.com/MojeZcg/Uniframe) | Official e-commerce site for the frame seller "Uniframe" | `TypeScript` `Next.js` |
-| [**ReactDjango-Blog**](https://github.com/MojeZcg/ReactDjango-Blog) | Modern responsive blog with Dark Mode | `React` `Django` |
-| [**ReactDjango-Dashboard**](https://github.com/MojeZcg/ReactDjango-Dashboard) | Content management dashboard for the blog | `React` `Django` |
+| Project | Description |
+|---------|-------------|
+| [**Celeris**](https://celeris.ar) | ISP management platform: clients, billing and e-invoicing, payments, inventory, network provisioning and field operations in one system. |
+| [**Framura**](https://framura.com.ar) | E-commerce platform for custom frames and personalized products. |
+| [**DelRio Internet**](https://delriointernet.com.ar) | Internet service provider platform and internal ISP management ecosystem. |
+
+> These are projects I'm currently developing, maintaining or actively involved in.
 
 ## 🛠️ Tech Stack
 
@@ -99,7 +100,7 @@
 
 ## 💡 Let's Build Something Together
 
-Got a project in mind or questions about full-stack development?
+Got a project in mind or questions about full-stack development?  
 📩 Reach out via [email](mailto:jesusmontenegro941@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/montenegrowalter/).
 
 ---
