@@ -18,7 +18,6 @@
 <a href="https://www.instagram.com/wmontenegro7/">
   <img src="https://img.shields.io/badge/Instagram-F6008B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
 </div>
 
 ---
@@ -37,8 +36,6 @@
 - 🏁 Huge **motorsports** fan — rally above everything
 - 📫 Open to **freelance projects & collaborations**
 - 🎯 *It's never too late to start something new — the best time is now.*
-
-<br clear="right"/>
 
 ## 🚀 Active Projects
 
