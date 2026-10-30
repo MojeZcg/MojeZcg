@@ -47,6 +47,7 @@
 | [**Celeris**](https://celeris.ar) | ISP management platform: clients, billing and e-invoicing, payments, inventory, network provisioning and field operations in one system. |
 | [**Framura**](https://framura.com.ar) | E-commerce platform for custom frames and personalized products. |
 | [**DelRio Internet**](https://delriointernet.com.ar) | Internet service provider platform and internal ISP management ecosystem. |
+| [**ClipQR**](https://apps.microsoft.com/detail/9n7g0lddj54r) | Windows tray app that reads QR codes and barcodes from your clipboard. |
 
 > These are projects I'm currently developing, maintaining or actively involved in.
 
